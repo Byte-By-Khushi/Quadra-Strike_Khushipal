@@ -1,0 +1,14 @@
+{
+  "name": "eventora-complete-project",
+  "version": "1.1.0",
+  "private": true,
+  "description": "EVENTORA website, API backend, and Expo mobile app",
+  "scripts": {
+    "web": "npm --prefix web run dev",
+    "server": "npm --prefix server start",
+    "web:install": "npm --prefix web install",
+    "server:install": "npm --prefix server install",
+    "mobile:install": "npm --prefix mobile install",
+    "mobile": "npm --prefix mobile start"
+  }
+}

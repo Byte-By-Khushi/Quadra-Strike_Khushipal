@@ -1,0 +1,11 @@
+{
+  "events": [
+    {"id":1,"title":"Mumbai Tech & AI Meetup","category":"Technology","city":"Mumbai","venue":"Andheri Innovation Hub","date":"2026-11-08","time":"10:30 AM","price":0,"description":"Meet builders, students and developers for short talks and networking.","tags":["AI","Technology","Networking"],"organizer":"Mumbai Tech Community","verified":true},
+    {"id":2,"title":"Indie Music Evening","category":"Music","city":"Thane","venue":"Lakeview Amphitheatre","date":"2026-11-12","time":"6:00 PM","price":299,"description":"An open-air evening featuring local independent musicians.","tags":["Music","Live","Outdoor"],"organizer":"Local Sounds","verified":true},
+    {"id":3,"title":"Design Thinking Workshop","category":"Workshop","city":"Mumbai","venue":"Bandra Co-work Studio","date":"2026-11-15","time":"11:00 AM","price":149,"description":"A practical beginner-friendly workshop to turn problems into ideas.","tags":["Design","Learning","Students"],"organizer":"Create Lab","verified":false},
+    {"id":4,"title":"Community Beach Clean-up","category":"Community","city":"Mumbai","venue":"Juhu Beach Entrance 5","date":"2026-11-09","time":"7:00 AM","price":0,"description":"Join local volunteers for a community clean-up and awareness drive.","tags":["Community","Volunteering","Outdoor"],"organizer":"Green Neighbourhood","verified":true},
+    {"id":5,"title":"Startup Stories: Student Edition","category":"Business","city":"Navi Mumbai","venue":"Vashi Learning Centre","date":"2026-11-20","time":"2:00 PM","price":99,"description":"Student founders share lessons from building their first projects.","tags":["Startup","Students","Networking"],"organizer":"Founders Circle","verified":false},
+    {"id":6,"title":"Weekend Photography Walk","category":"Art","city":"Thane","venue":"Upvan Lake Meeting Point","date":"2026-11-22","time":"7:30 AM","price":0,"description":"A relaxed photo walk for beginners. Bring any phone or camera.","tags":["Photography","Art","Outdoor"],"organizer":"Frame Friends","verified":true}
+  ],
+  "rsvps": []
+}
